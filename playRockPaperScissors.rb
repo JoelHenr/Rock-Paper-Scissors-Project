@@ -20,6 +20,7 @@ while loses < 2 && wins < 2
         puts 'You Tied'
         tied +=1
     end
+    
     if answer == true
         puts 'You won!'
         wins += 1
