@@ -32,11 +32,11 @@ while loses < 2 && wins < 2
 end
 
 # The ending results
-  if wins == 2
-        puts 'You Win the series!!'
-    elsif loses == 2
-        puts 'You Lost the Series'
-    end
+if wins == 2
+    puts 'You Win the series!!'
+elsif loses == 2
+    puts 'You Lost the Series'
+end
 
 
 
